@@ -143,7 +143,11 @@ public class postest1 {
             }
             case 2 -> {
                 if (merk_mobil.isEmpty() == true){
+<<<<<<< HEAD
+                    System.out.println("|   kosong                  |");
+=======
                     System.out.println("|           Kosong          |");
+>>>>>>> 53cc16f8df5a7f28a3280c9fea70a46f00f185fe
                 }else {
                     lihat();
                 }
